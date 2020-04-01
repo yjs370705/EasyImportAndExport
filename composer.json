@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Yjs\\EasyImport\\": "src"
+            "EasyImport\\": "src"
         }
     }
 }
