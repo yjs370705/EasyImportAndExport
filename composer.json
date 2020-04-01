@@ -8,10 +8,15 @@
             "email": "2849694489@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.11"
+    },
     "autoload": {
         "psr-4": {
             "EasyPHPExcel\\": "src"
-        }
+        },
+        "files": [
+            "src/common.php"
+        ]
     }
 }
