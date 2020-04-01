@@ -1,0 +1,17 @@
+{
+    "name": "yjs\/easy_import",
+    "description": "EasyImportAndExport",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yjs",
+            "email": "2849694489@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yjs\\EasyImport\\": "src"
+        }
+    }
+}
