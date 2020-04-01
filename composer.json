@@ -1,5 +1,5 @@
 {
-    "name": "yjs\/easy_import",
+    "name": "yjs\/easy_import_export",
     "description": "EasyImportAndExport",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "EasyImport\\": "src"
+            "EasyPHPExcel\\": "src"
         }
     }
 }
